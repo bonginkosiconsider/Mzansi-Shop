@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Keep admin/vendor areas out of search results
+Disallow: /admin
+Disallow: /sell
+Disallow: /vendor
+Disallow: /login
+Disallow: /register
+Disallow: /account
+Disallow: /orders
+Disallow: /checkout
+
+Sitemap: https://mzansishop-b7cbe.web.app/sitemap.xml

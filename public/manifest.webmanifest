@@ -1,0 +1,17 @@
+{
+  "name": "MzansiShop",
+  "short_name": "MzansiShop",
+  "description": "Mzansi Shop is a South African online marketplace that connects customers with local sellers, offering affordable products while empowering entrepreneurs and supporting local businesses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "1536x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
